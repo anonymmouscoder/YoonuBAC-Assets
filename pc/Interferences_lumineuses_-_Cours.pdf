@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org); Commerce 1" />
+<link rel="canonical" href="/physique_chimie/interf%C3%A9rences-lumineuses-ts" />
+<link rel="shortlink" href="/node/3104" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<script type="text/x-mathjax-config">MathJax.Hub.Config({
+  extensions: ['tex2jax.js'],
+  jax: ['input/TeX','output/HTML-CSS'],
+  tex2jax: {
+    inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+    processEscapes: true
+  }
+});
+</script><link rel="shortcut icon" href="https://www.sunudaara.com/sites/default/files/logo_sunudaara_1.png" type="image/png" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4925343521376758",
+    enable_page_level_ads: true
+  });
+</script><title>Interférences lumineuses - Ts | Sunudaara</title>
+<style type="text/css" media="all">
+@import url("https://www.sunudaara.com/modules/system/system.base.css?srj0af");
+@import url("https://www.sunudaara.com/modules/system/system.menus.css?srj0af");
+@import url("https://www.sunudaara.com/modules/system/system.messages.css?srj0af");
+@import url("https://www.sunudaara.com/modules/system/system.theme.css?srj0af");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?srj0af");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.sunudaara.com/modules/aggregator/aggregator.css?srj0af");
+@import url("https://www.sunudaara.com/modules/book/book.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/ckeditor_accordion/css/ckeditor-accordion.css?srj0af");
+@import url("https://www.sunudaara.com/modules/comment/comment.css?srj0af");
+@import url("https://www.sunudaara.com/modules/field/theme/field.css?srj0af");
+@import url("https://www.sunudaara.com/modules/node/node.css?srj0af");
+@import url("https://www.sunudaara.com/modules/poll/poll.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/quiz/quiz.css?srj0af");
+@import url("https://www.sunudaara.com/modules/search/search.css?srj0af");
+@import url("https://www.sunudaara.com/modules/user/user.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/video_filter/video_filter/video_filter.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/youtube/css/youtube.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/asset/css/assets.css?srj0af");
+@import url("https://www.sunudaara.com/modules/forum/forum.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/views/css/views.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/ckeditor/css/ckeditor.css?srj0af");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.sunudaara.com/sites/all/modules/ctools/css/ctools.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/panels/css/panels.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/question_answer/question_answer.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/video/css/video.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/jquery_ui_filter/dialog/jquery_ui_filter_dialog.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/modules/adsense/css/adsense.css?srj0af");
+@import url("https://www.sunudaara.com/modules/filter/filter.css?srj0af");
+@import url("https://www.sunudaara.com/sites/default/files/honeypot/honeypot.css?srj0af");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.sunudaara.com/sites/all/themes/impact_theme/style.css?srj0af");
+@import url("https://www.sunudaara.com/sites/all/themes/impact_theme/css/bootstrap.css?srj0af");
+</style>
+<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/drupal.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/ui/jquery.ui.position-1.13.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/ui/jquery.ui.dialog-1.13.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/form-single-submit.js?v=7.100"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/form.js?v=7.100"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_ui_filter/jquery_ui_filter.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/ckeditor_accordion/js/ckeditor-accordion.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/entityreference/js/entityreference.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/mathjax/mathjax.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/default/files/languages/fr_ZiwrRg1NWTuRbIWcMzpJX0RJMYkmhQ8Vkp7KzlP102E.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/adsense/contrib/adsense_click/adsense_click.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/video/js/video.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_ui_filter/accordion/jquery_ui_filter_accordion.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_ui_filter/dialog/jquery_ui_filter_dialog.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/jquery_ui_filter/tabs/jquery_ui_filter_tabs.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/google_analytics/googleanalytics.js?srj0af"></script>
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-112346660-1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-112346660-1", {"groups":"default","anonymize_ip":true});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.sunudaara.com/misc/textarea.js?v=7.100"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/modules/filter/filter.js?srj0af"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/antibot/js/antibot.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/themes/impact_theme/js/main-menu.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/themes/impact_theme/js/pngfix.min.js?srj0af"></script>
+<script type="text/javascript" src="https://www.sunudaara.com/sites/all/themes/impact_theme/js/bootstrap.min.js?srj0af"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"impact_theme","theme_token":"pfQus7JxrVUuB4SaDdlseMI4l17RBPeOGId2coqMh0Y","js":{"sites\/all\/modules\/pdf_export\/js\/pdf_export.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.position-1.13.0-backport.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ui\/jquery.ui.dialog-1.13.0-backport.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"misc\/form-single-submit.js":1,"misc\/form.js":1,"sites\/all\/modules\/jquery_ui_filter\/jquery_ui_filter.js":1,"sites\/all\/modules\/ckeditor_accordion\/js\/ckeditor-accordion.js":1,"sites\/all\/modules\/entityreference\/js\/entityreference.js":1,"sites\/all\/modules\/mathjax\/mathjax.js":1,"public:\/\/languages\/fr_ZiwrRg1NWTuRbIWcMzpJX0RJMYkmhQ8Vkp7KzlP102E.js":1,"sites\/all\/modules\/adsense\/contrib\/adsense_click\/adsense_click.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/modules\/jquery_ui_filter\/accordion\/jquery_ui_filter_accordion.js":1,"sites\/all\/modules\/jquery_ui_filter\/dialog\/jquery_ui_filter_dialog.js":1,"sites\/all\/modules\/jquery_ui_filter\/tabs\/jquery_ui_filter_tabs.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-112346660-1":1,"1":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"http:\/\/cdn.mathjax.org\/mathjax\/latest\/MathJax.js?config=TeX-AMS-MML_HTMLorMML":1,"sites\/all\/modules\/antibot\/js\/antibot.js":1,"sites\/all\/themes\/impact_theme\/js\/main-menu.js":1,"sites\/all\/themes\/impact_theme\/js\/pngfix.min.js":1,"sites\/all\/themes\/impact_theme\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/ckeditor_accordion\/css\/ckeditor-accordion.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"sites\/all\/modules\/quiz\/quiz.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter\/video_filter.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/asset\/css\/assets.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/question_answer\/question_answer.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/jquery_ui_filter\/dialog\/jquery_ui_filter_dialog.css":1,"sites\/all\/modules\/adsense\/css\/adsense.css":1,"modules\/filter\/filter.css":1,"public:\/\/honeypot\/honeypot.css":1,"sites\/all\/themes\/impact_theme\/style.css":1,"sites\/all\/themes\/impact_theme\/css\/bootstrap.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"jQueryUiFilter":{"disabled":0,"accordionHeaderTag":"h1","accordionOptions":{"active":0,"animated":"slide","autoHeight":"true","clearStyle":"false","collapsible":"false","event":"click","scrollTo":0,"history":"false"},"dialogWhitelist":"","dialogOptions":{"closeOnEscape":"true","closeText":"Close","closeButton":"false","dialogClass":"","draggable":"true","height":"auto","hide":"","show":"","width":"auto","maxHeight":"false","maxWidth":"false","minHeight":"150","minWidth":"150","modal":"false","position":"center","resizable":"true","stack":"true","title":"","dialogFeatures":{"form-onsubmit_close":1,"page-logo":0,"page-site_name":0,"page-site_slogan":0,"page-mission":0,"page-main_menu":0,"page-secondary_menu":0,"page-title":1,"page-title_prefix":0,"page-title_suffix":0,"page-tabs":1,"page-breadcrumb":0,"page-action_links":0,"page-feed_icons":0,"page-footer_message":0,"page-regions":0}},"tabsOptions":{"collapsible":"true","event":"click","fx":0,"paging":{"back":"\u0026laquo; Previous","next":"Next \u0026raquo;"},"selected":"","scrollTo":0,"history":"false"},"tabsHeaderTag":"h3"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/video_filter\/video_filter"},"ckeditor_accordion":{"collapseAll":1},"googleanalytics":{"account":["UA-112346660-1"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/physique_chimie\/interferences-lumineuses-ts":true,"\/comment\/reply\/3104":true,"\/physique_chimie\/interf%C3%A9rences-lumineuses-ts?destination=node\/3104":true},"ckeditor":{"input_formats":{"full_html":{"customConfig":"\/sites\/all\/modules\/ckeditor\/ckeditor.config.js?srj0af","defaultLanguage":"fr","toolbar":"[\n    [\u0027Source\u0027],\n    [\u0027Cut\u0027,\u0027Copy\u0027,\u0027Paste\u0027,\u0027PasteText\u0027,\u0027PasteFromWord\u0027,\u0027-\u0027,\u0027SpellChecker\u0027,\u0027Scayt\u0027],\n    [\u0027Undo\u0027,\u0027Redo\u0027,\u0027Find\u0027,\u0027Replace\u0027,\u0027-\u0027,\u0027SelectAll\u0027],\n    [\u0027Image\u0027,\u0027Flash\u0027,\u0027Table\u0027,\u0027HorizontalRule\u0027,\u0027Smiley\u0027,\u0027SpecialChar\u0027,\u0027Iframe\u0027],\n    \u0027\/\u0027,\n    [\u0027Bold\u0027,\u0027Italic\u0027,\u0027Underline\u0027,\u0027Strike\u0027,\u0027-\u0027,\u0027Subscript\u0027,\u0027Superscript\u0027,\u0027-\u0027,\u0027RemoveFormat\u0027],\n    [\u0027NumberedList\u0027,\u0027BulletedList\u0027,\u0027-\u0027,\u0027Outdent\u0027,\u0027Indent\u0027,\u0027Blockquote\u0027,\u0027CreateDiv\u0027],\n    [\u0027JustifyLeft\u0027,\u0027JustifyCenter\u0027,\u0027JustifyRight\u0027,\u0027JustifyBlock\u0027,\u0027-\u0027,\u0027BidiLtr\u0027,\u0027BidiRtl\u0027,\u0027-\u0027,\u0027Language\u0027],\n    [\u0027Link\u0027,\u0027Unlink\u0027,\u0027Anchor\u0027,\u0027Linkit\u0027,\u0027LinkToNode\u0027,\u0027LinkToMenu\u0027],\n    \u0027\/\u0027,\n    [\u0027Format\u0027,\u0027Font\u0027,\u0027FontSize\u0027],\n    [\u0027TextColor\u0027,\u0027BGColor\u0027],\n    [\u0027Maximize\u0027,\u0027ShowBlocks\u0027],\n    [\u0027DrupalBreak\u0027,\u0027DrupalPageBreak\u0027]\n]","enterMode":2,"shiftEnterMode":2,"toolbarStartupExpanded":true,"width":"100%","skin":"kama","format_tags":"p;div;pre;address;h1;h2;h3;h4;h5;h6","show_toggle":"t","default":"t","ss":"2","loadPlugins":{"accordion":{"name":"accordion","desc":"CKEditor Accordion - A plugin to easily create accordions","path":"\/.\/sites\/all\/modules\/ckeditor_accordion\/plugins\/accordion\/","buttons":{"Accordion":{"icon":"icons\/accordion.png","label":"Accordion"}}},"asset":{"name":"asset","desc":"Media assets","path":"\/sites\/all\/modules\/asset\/ckeditor\/","buttons":{"asset_document":{"label":"Asset: Document","icon":"buttons\/AddDocument.png"},"asset_free_html":{"label":"Asset: Free HTML","icon":"buttons\/AddFreeHTML.png"},"asset_image":{"label":"Asset: Image","icon":"buttons\/AddImage.png"},"asset_video":{"label":"Asset: Video","icon":"buttons\/AddVideo.png"},"assetSearch":{"label":"Assets library","icon":"search.png"}}},"ckeditor_image":{"name":"enhanced_image","desc":"CKEditor Image - Enhanced Image plugin","path":"\/sites\/all\/modules\/ckeditor_image\/plugins\/enhanced_image\/","default":"t","buttons":{"EnhancedImage":{"label":"Enhanced Image","icon":"images\/image.png"}}},"imce":{"name":"imce","desc":"Plugin for inserting files from IMCE without image dialog","path":"\/sites\/all\/modules\/ckeditor\/plugins\/imce\/","buttons":{"IMCE":{"label":"IMCE","icon":"images\/icon.png"}},"default":"f"},"tableresize":{"name":"tableresize","desc":"Plugin de redimensionnement des tableaux","path":"\/sites\/all\/libraries\/ckeditor\/\/plugins\/tableresize\/","buttons":false,"default":"t"},"video_filter":{"name":"video_filter","desc":"Plugin to directly embed videos with the video filter module.","path":"\/sites\/all\/modules\/video_filter\/video_filter\/editors\/ckeditor\/","buttons":{"video_filter":{"label":"Video filter","icon":"video_filter.png"}}}},"entities":false,"entities_greek":false,"entities_latin":false,"scayt_autoStartup":false,"filebrowserBrowseUrl":"\/imce?app=ckeditor%7Csendto%40ckeditor_imceSendTo%7C","stylesCombo_stylesSet":"drupal:\/sites\/all\/modules\/ckeditor\/ckeditor.styles.js?srj0af","contentsCss":["\/sites\/all\/modules\/ckeditor\/css\/ckeditor.css?srj0af","\/sites\/all\/libraries\/ckeditor\/contents.css?srj0af"]}},"plugins":{"asset":{"document":{"name":"Document","icon":"AddDocument.png","fields":{"field_asset_document_desc":{"type":"text_long","label":"Description"}},"modes":{"full":"Full size"},"accessEdit":false},"free_html":{"name":"Free HTML","icon":"AddFreeHTML.png","fields":[],"modes":{"full":"Full size","small":"Petit"},"accessEdit":false},"image":{"name":"Image","icon":"AddImage.png","fields":{"field_asset_image_copyright":{"type":"text","label":"Copyright"},"field_asset_image_description":{"type":"text_long","label":"Description"}},"modes":{"full":"Full size","small":"Petit"},"accessEdit":false},"video":{"name":"Video","icon":"AddVideo.png","fields":{"field_asset_video_desc":{"type":"text_long","label":"Description"}},"modes":{"full":"Full size","small":"Petit"},"accessEdit":false},"removeButtons":["asset_document","asset_free_html","asset_image","asset_video","assetSearch"]}},"textarea_default_format":{"edit-comment-body-und-0-value":"plain_text"},"timestamp":"srj0af"},"tagmap":[],"antibot":{"forms":{"comment-form":{"action":"\/comment\/reply\/3104","key":"9ecf0f6dc7b609bf692c8f85f914c108"},"user-login-form":{"action":"\/physique_chimie\/interf%C3%A9rences-lumineuses-ts?destination=node\/3104","key":"12b99d8533907de29858e06d1179132d"}}}});
+//--><!]]>
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4925343521376758"
+     crossorigin="anonymous"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4925343521376758"
+     crossorigin="anonymous"></script>
+
+
+<script src="https://tikzjax.com/v1/tikzjax.js"></script>
+ <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<!--[if lt IE 9]><script src="/sites/all/themes/impact_theme/js/html5.js"></script><![endif]-->
+
+
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3104 node-type-physique wide-sidebar">
+	
+    <div id="wrapper">
+  <header id="header" class="clearfix">
+          <div id="site-logo"><a href="/" title="Accueil">
+        <img src="https://www.sunudaara.com/sites/default/files/logosunudaara_0.png" alt="Accueil" />
+      </a></div>                      <div class="social-profile">
+        <ul>
+          <li class="facebook">
+            <a target="_blank" title="Sunudaara Sur Facebook" href="https://www.facebook.com/sunudaara1">Sunudaara Facebook </a>
+          </li>                    <li class="google-plus">
+            <a target="_blank" title="Sunudaara Sur Youtube" href="https://www.youtube.com/@sunudaara3447 ">Sunudaara Chaine Youtube </a>
+          </li>          
+        </ul>
+      </div>
+        <nav id="navigation" role="navigation">
+      <div id="main-menu">
+        <ul class="menu"><li class="first leaf"><a href="/">Accueil</a></li>
+<li class="leaf"><a href="/cours">Cours</a></li>
+<li class="leaf"><a href="/Exercices">Exercices</a></li>
+<li class="leaf"><a href="/devoirs">Devoirs</a></li>
+<li class="leaf"><a href="/video">Vidéo</a></li>
+<li class="leaf"><a href="/qcm">QCM</a></li>
+<li class="leaf"><a href="/node/339">Nous contacter</a></li>
+<li class="leaf"><a href="https://sunudaara.com/user/register" title="">Créer un compte</a></li>
+<li class="last leaf"><a href="/fascicule-des-partenaires">Fascicule des partenaires</a></li>
+</ul>      </div>
+    </nav>
+  </header>
+
+  
+  <div id="main" class="clearfix">
+    <div id="primary">
+      <section id="content" role="main">
+        
+        <div id="breadcrumbs"><h2 class="element-invisible">Vous êtes ici</h2><nav class="breadcrumb"><a href="/">Accueil</a> » Interférences lumineuses - Ts</nav></div>                        <div id="content-wrap">
+                    <h1 class="page-title">Interférences lumineuses - Ts</h1>                                                  <div class="region region-content">
+  <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/physique_chimie/interferences-lumineuses-ts" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulaire de recherche</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Rechercher </label>
+ <input title="Indiquer les termes à rechercher" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--3" name="op" value="Rechercher" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Uh58tzu9YyhU_jeOUqBwUKWkEUvVwxJ3a4x8Ul1Dm-g" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                        <span property="dc:title" content="Interférences lumineuses - Ts" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content">
+    <div class="field field-name-field-classe field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Classe:&nbsp;</div><div class="field-items"><div class="field-item even">Terminale</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="tex2jax"> <div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Deux ondes de même de  fréquence se propageant dans le même milieu peuvent se superposer pour donner naissance aux phénomènes d'interférences. Si la lumière est une onde, elle doit permettre d'obtenir un tel phénomène</div>
+<h2 class="rtejustify">
+	<span style="font-size:14px;">I. Expérience de Young</span></h2>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">1. Dispositif expérimentale</span></h2>
+<div class="rtejustify">
+	<img alt="" src="https://www.sunudaara.com/sites/default/files/fig169_2.png" style="width: 460px; height: 244px; display: block; margin-left: auto; margin-right: auto;" /></div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Un faisceau de lumière monochromatique issu d'une source S(laser) est envoyé sur une plaque opaque percée  de deux fentes $S_{1}$ et $S_{2}.$ La distance entre les deux fentes est très faible de l'ordre du millimètre.</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Un écran est placé derrière la plaque. Il se produit au niveau de chaque fente un phénomène de diffraction. Chacun des fentes $S_{1}$ et $S_{2}$ se comporte comme une source ponctuelle $(S_{1}$ et $S_{2}$ sont des sources secondaires$)$</div>
+<div class="rtejustify">
+	   </div>
+<div class="rtejustify">
+	Les faisceaux issus de $S_{1}$ et $S_{2}$ se superposent dans une certaine région appelée champ d'interférence.</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">2. Observations</span></h2>
+<div class="rtejustify">
+	On observe sur l'écran des zones alternativement sombres et claires appelées franges d'interférence. Ces franges au voisinage du point de projection $S$ sur l'écran sont pratiquement rectilignes, parallèles, équidistantes et perpendiculaires au plan de la figure. Ces franges sont observées dans un champ d'interférence quelque soit la position de l'écran : on dit que ces franges sont délocalisées  </div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">3. Interprétation </span></h2>
+<div class="rtejustify">
+	L'existence des franges montre que sous certaines conditions la superposition de deux faisceaux lumineux peut :</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$-\ $en certains points, accentuer le phénomène lumineux en donnant des franges brillantes</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$-\ $en d'autres points, détruire le phénomène lumineux en donnant des franges sombres.</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Le phénomène d'interférence peut s'interpréter si on suppose que les sources secondaires se comportent comme des sources de vibrations de même longueur d'onde.</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	En point $M$ de l'écran appartenant au champ d'interférence, les vibrations issues de $S_{1}$ et $S_{2}$ arrivent l'une par rapport l'autre avec un certain retard. Ce retard dépend de la différence de marche $\delta=SM_{1}-SM_{2}$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Il y a <strong>interférences consstructives</strong> en un point de la zone d'interférences si la différence de marche  en ce point est un multiple entier de la longueur d'onde : $\delta=k\lambda(k\in\mathbb{R})$</div>
+<div class="rtejustify">
+	  .</div>
+<div class="rtejustify">
+	Le point $M$ est alors le milieu d'une frange brillante. Il y a <strong>interférences destructives</strong> en un point de la zone d'interférences si la différence de marche en ce point est un multiple entier impair de la demi-longueur d'onde : $\delta=(2k+1)\dfrac{\lambda}{2}(k\in\mathbb{R})$</div>
+<div class="rtejustify">
+	  </div>
+<div class="rtejustify">
+	$\bullet\ $Le point $M$ est alors le milieu d'une frange sombre</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">4. Conditions d'interférences </span></h2>
+<div class="rtejustify">
+	On ne peut obtenir d'interférences lumineuses avec des sources distinctes où on essaie de superposer les faisceaux. Pour obtenir des franges d'interférences, il faut deux <strong>sources cohérentes</strong> Deux sources sont cohérentes si :</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$-\ $elles émettent des vibrations de même fréquence(même période). On dit qu'elles <strong>sont synchrones </strong></div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$-\ $elles présentent une différence de phase constante </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$-\ $le rapport d'amplitude constant </div>
+<h2 class="rtejustify">
+	<span style="font-size:14px;">II. Interfrange</span></h2>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">1. Différence de marche  </span></h2>
+<div class="rtejustify">
+	<img alt="" src="https://www.sunudaara.com/sites/default/files/fig170_3.png" style="width: 630px; height: 291px; display: block; margin-left: auto; margin-right: auto;" /></div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	La différence de marche $($notée $\sigma)$ est la différence de distance parcourue par les deux ondes avant d'arriver au point $M$<br />
+	 </div>
+<div class="rtejustify">
+	$\delta=\left(SS_{2}+S_{2}M\right)-\left(SS_{1}+S_{1}M\right)=S_{2}M-S_{1}M\left(SS_{2}=SS_{1}\right)$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$S_{2}M^{2}=d_{2}^{2}=D^{2}+\left(x+\dfrac{a}{2}\right)^{2}$ ;</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$S_{1}M^{2}=d_{1}^{2}=D^{2}+\left(x-\dfrac{a}{2}\right)^{2}$ ;</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	\begin{eqnarray}d_{2}^{2}-d_{1}^{2} &amp;=&amp; D^{2}+\left(x+\dfrac{a}{2}\right)^{2}-\left(D^{2}+\left(x-\dfrac{a}{2}\right)^{2}\right)\nonumber \\\\ &amp;=&amp; D^{2}+\left(x+\dfrac{a}{2}\right)^{2}-D^{2}-\left(x-\dfrac{a}{2}\right)^{2}\end{eqnarray}</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	\begin{eqnarray} \left(d_{2}-d_{1}\right)\left(d_{2}+d_{1}\right) &amp;=&amp; \left(\left(x+\dfrac{a}{2}\right)+\left(x-\dfrac{a}{2}\right)\right)\left(\left(x+\dfrac{a}{2}\right)-\left(x-\dfrac{a}{2}\right)\right)\nonumber\\\\ &amp;=&amp; 2ax \end{eqnarray}</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Les grandeurs $x$ et a sont petites devant la grandeur $D.$ Dans ces conditions</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$d_{2}+d_{1}=2D$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$\Rightarrow\delta=d_{2}-d_{1}=\dfrac{2ax}{2D}$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$\Rightarrow\delta=\dfrac{ax}{D}$</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">2. Position des franges</span></h2>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">2.1 Position des milieux des franges brillantes</span></h2>
+<div class="rtejustify">
+	Les abscisses des milieux des franges brillantes sont tels que :</div>
+<div class="rtejustify">
+	$$\delta=\dfrac{ax}{D}=k\lambda\Rightarrow x_{k}=k\lambda\dfrac{D}{a}$$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=0\Rightarrow x=0$ est l'abscisse du milieu de la <strong>frange centrale</strong></div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=1\Rightarrow x_{1}=\lambda\dfrac{D}{a}$ est l'abscisse du milieu de la première frange brillante </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=2\Rightarrow x_{2}=2\lambda\dfrac{D}{a}$ est l'abscisse du milieu de la deuxième frange brillante </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=n\Rightarrow x_{n}=n\lambda\dfrac{D}{a}$ est l'abscisse du milieu de la $n^{nième}$ frange brillante </div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">2.2. Position des milieux des franges sombres<span style="white-space:pre"> </span></span></h2>
+<div class="rtejustify">
+	Les abscisses des milieux des franges sombres sont tels que :</div>
+<div class="rtejustify">
+	$$\delta=\dfrac{ax}{D}=(2k+1)\dfrac{\lambda}{2}\Rightarrow x_{k}=(2k+1)\dfrac{\lambda}{2}\dfrac{D}{a}$$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=0\Rightarrow x=\dfrac{\lambda}{2}\dfrac{D}{a}$ est l'abscisse du milieu de la de la première sombre</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=1\Rightarrow x_{1}=\dfrac{3\lambda}{2}\dfrac{D}{a}$ est l'abscisse du milieu de la deuxième frange sombre</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$k=n\Rightarrow x_{n}=(2n+1)\dfrac{\lambda}{2}\dfrac{D}{a}$ est l'abscisse du milieu de la $(n+1)^{nième}$ frange sombre</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">3. Expression de l'interfrange                                                                                                                        </span></h2>
+<div class="rtejustify">
+	<strong>L'interfrange</strong> est la distance qui sépare deux franges consécutives de même nature</div>
+<div class="rtejustify">
+	$$i=x_{k+1}-x_{k}=(k+1)\lambda\dfrac{D}{a}-k\lambda\dfrac{D}{a}\Rightarrow i=\lambda\dfrac{D}{a}$$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	<img alt="" src="https://www.sunudaara.com/sites/default/files/fig194_4.png" style="width: 672px; height: 128px; display: block; margin-left: auto; margin-right: auto;" /></div>
+<div class="rtejustify">
+	 </div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">Remarque :</span></h2>
+<div class="rtejustify">
+	L'ordre d'interférence en un point $M$ de l'écran où la différence de marche est $\delta$, est : $p=\dfrac{\delta}{\lambda}$</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	$\lambda$ étant la longueur d'onde de la radiation</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Si le point $M$ est le milieu d'une <strong>frange brillante</strong>, on a alors : $p=\dfrac{\delta}{\lambda}=k$</div>
+<div class="rtejustify">
+	  </div>
+<div class="rtejustify">
+	Les franges brillantes ont un ordre d'interférence entier </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	Si le point $M$ est le milieu d'une <strong>frange sombre</strong>, on a alors : $p=\dfrac{\delta}{\lambda}=k+\dfrac{1}{2}$</div>
+<div class="rtejustify">
+	   </div>
+<div class="rtejustify">
+	Les franges brillantes ont un ordre d'interférence demi-entier </div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">4. Interférences en lumière blanche</span></h2>
+<div class="rtejustify">
+	Chacune des lumières monochromatiques formant la lumière blanche donne son propre système de franges (étant incohérente entre elles, elles peuvent interférer).Il y a donc superposition de tous les systèmes de franges.</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	En particulier, la frange centrale, brillante pour chaque longueur d'onde, apparait donc en blanc. De part et d'autre, on voit des franges colorées de plus en plus décalées, jusqu'à l'œil ne soit plus capables de distinguer les franges sombres du reste (on dit qu'il y a brouillage des franges), ce qui donne une impression de blanc grisâtre (blanc d'ordre supérieur) </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	<img alt="" src="https://www.sunudaara.com/sites/default/files/fig195_3.png" style="width: 565px; height: 200px; display: block; margin-left: auto; margin-right: auto;" /></div>
+<div class="rtejustify">
+	 </div>
+<h2 class="rtejustify">
+	<span style="font-size:14px;">III. Spectre de la lumière et applications</span></h2>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">1. Le spectre de la lumière </span></h2>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">1.1. Le spectre visible </span></h2>
+<div class="rtejustify">
+	Il est constitué des radiations dans un domaine continu de lumière de longueur d'onde allant du violet $(\lambda=400nm)$ au rouge $(\lambda=800nm)$</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">1.2. Le rayonnement ultra-violet $(U.V.)$</span></h2>
+<div class="rtejustify">
+	Il a une longueur d'onde inférieure à $400nm.$ Il est présent dans la haute atmosphère (rayonnement solaire entre autres) et son énergie le rend dangereux . C'est lui qui est responsable du bronzage de la peau et permet la fabrication de la vitamine $D$ de croissance, mais à haute dose, il provoque des brulures et des cancers de la peau.</div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	L'atmosphère terrestre en particulier la couche d'ozone, forme écran et une partie d'entre eux atteint la Terre. La couche d'ozone, protégeant la terre,  est donc primondiale, ce qui explique les inquiétudes qui se font jour quant à sa possible disparition.</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">1.3. Le rayonnement infra-rouge $(I.R.)$</span></h2>
+<div class="rtejustify">
+	Ces rayonnements sont invisibles pour l'œil humain et transportent de l'énergie thermique. Leur longueur d'onde sont supérieures à $750nm.$ Comme applications, on peut citer les lunettes de nuit, les armes $($les missiles $\mathbb{R})$, la détection par satellite (météorologique militaire...), le diagnostic médical</div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">Remarque : </span></h2>
+<div class="rtejustify">
+	Les ondes lumineuses, de même les ondes hertziennes, les rayonnements $\mathbb{R}$, $UV$ et les rayons $X$ et $\gamma$ sont des ondes électromagnétiques </div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	<img alt="" src="https://www.sunudaara.com/sites/default/files/fig196_4.png" style="width: 699px; height: 145px; display: block; margin-left: auto; margin-right: auto;" /></div>
+<div class="rtejustify">
+	 </div>
+<div class="rtejustify">
+	<img alt="" src="https://www.sunudaara.com/sites/default/files/fig197_2.png" style="width: 582px; height: 193px; display: block; margin-left: auto; margin-right: auto;" /></div>
+<h2 class="rtejustify">
+	<span style="font-size:12px;">2. Applications</span></h2>
+<div class="rtejustify">
+	Les phénomènes d'interférences dù à la nature ondulatoire de la lumière sont très utilisés dans de nombreux domaines :mesure de la longueur d'onde, d'indice, de faibles épaisseurs, études d'écoulement liquides et gazeux en aérodynamique, résistance des matériaux... L'ensemble de tous ces procédés d'études et de mesures constitue <strong>l'interférométrie</strong>. Enfin, signalons que les interférences lumineuses sont à la base de la confection des hologrammes ou images en relief, promis à un développement futur important</div>
+<div>
+	 </div>
+ </div></div></div></div><div class="field field-name-scald-authors field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Auteur:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/authors/amary-thiam-sidy-mouhamed-ndiaye" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Amary Thiam &amp; Sidy Mouhamed Ndiaye</a></div></div></div>  </div>
+
+      <footer>
+          </footer>
+  
+  <div id="comments" class="comment-wrapper">
+  
+  
+      <h2 class="title comment-form">Ajouter un commentaire</h2>
+    <noscript>
+  <style>form.antibot { display: none !important; }</style>
+  <div class="antibot-no-js antibot-message antibot-message-warning messages warning">
+    You must have JavaScript enabled to use this form.  </div>
+</noscript>
+<form class="comment-form antibot" action="/antibot" method="post" id="comment-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Votre nom </label>
+ <input type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-subject">
+  <label for="edit-subject">Objet </label>
+ <input type="text" id="edit-subject" name="subject" value="" size="60" maxlength="64" class="form-text" />
+</div>
+<div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-item form-type-textarea form-item-comment-body-und-0-value">
+  <label for="edit-comment-body-und-0-value">Comment <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full form-textarea required" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+<fieldset class="filter-wrapper form-wrapper" id="edit-comment-body-und-0-format"><div class="fieldset-wrapper"><div class="filter-help form-wrapper" id="edit-comment-body-und-0-format-help"><p><a href="/filter/tips" target="_blank">Plus d&#039;information sur les formats de texte</a></p></div><div class="filter-guidelines form-wrapper" id="edit-comment-body-und-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-plain_text"><h3>Plain text</h3><ul class="tips"><li>Aucune balise HTML autorisée.</li><li>Les adresses de pages web et de courriels sont transformées en liens automatiquement.</li></ul></div></div></div></fieldset>
+</div>
+</div></div><input type="hidden" name="form_build_id" value="form-tDOTJWygVYrKNInJmT6g8cU8kdy9NWtoX_4C4mO0SUY" />
+<input type="hidden" name="form_id" value="comment_node_physique_form" />
+<input type="hidden" name="antibot_key" value="" />
+<input type="hidden" name="honeypot_time" value="1761304332|4bbUV1xPqYuIx3IwREG7OhTCxj3jPrUTGTqc1y1cmdc" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Enregistrer" class="form-submit" /><input type="submit" id="edit-preview" name="op" value="Aperçu" class="form-submit" /></div><div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>  </div>
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block--managed-1" class="block block--managed">
+
+    
+  <div class="content">
+    <div style='text-align:center'><div class='adsense responsive' >
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4925343521376758"
+     data-ad-slot="7680474465"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>  </div>
+</div>
+<div id="block--managed-3" class="block block--managed">
+
+    
+  <div class="content">
+    <div style='text-align:center'><div class='adsense responsive' >
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4925343521376758"
+     data-ad-slot="7110839615"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>  </div>
+</div>
+<div id="block-block-6" class="block block-block">
+
+      
+  <div class="content">
+    <div class="tex2jax"> <p></p>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4925343521376758" crossorigin="anonymous"></script><script>
+<!--//--><![CDATA[// ><!--
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-11" class="block block-block">
+
+      
+  <div class="content">
+    <div class="tex2jax"> <p></p>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4925343521376758" crossorigin="anonymous"></script><script>
+<!--//--><![CDATA[// ><!--
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </div>
+      </section> <!-- /#main -->
+    </div>
+
+          <aside id="sidebar" role="complementary">
+       <div class="region region-sidebar-first">
+  <div id="block--managed-2" class="block block--managed">
+
+    
+  <div class="content">
+    <div style='text-align:center'><div class='adsense responsive' >
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4925343521376758"
+     data-ad-slot="3542651425"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>  </div>
+</div>
+<noscript>
+  <style>form.antibot { display: none !important; }</style>
+  <div class="antibot-no-js antibot-message antibot-message-warning messages warning">
+    You must have JavaScript enabled to use this form.  </div>
+</noscript>
+<div id="block-user-login" class="block block-user">
+
+        <h2 >Connexion utilisateur</h2>
+    
+  <div class="content">
+    <form class="antibot" action="/antibot" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name--2">Nom d'utilisateur <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-name--2" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Mot de passe <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Créer un nouveau compte utilisateur.">Créer un nouveau compte</a></li>
+<li class="last"><a href="/user/password" title="Demander un nouveau mot de passe par courriel.">Demander un nouveau mot de passe</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-G2Vn58FVu0mM_uL_pneyeIt2A5Vyp1TIoskVS0zd3ho" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="antibot_key" value="" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Se connecter" class="form-submit" /></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-coll-ge" class="block block-menu">
+
+        <h2 >Collège</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/sixieme" title="">Sixième</a><ul class="menu"><li class="first leaf"><a href="/cours_maths_6e" title="">Cours Math 6e</a></li>
+<li class="leaf"><a href="/exercices_math%C3%A9matiques_6e" title="">Exo Maths 6e</a></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/sciences_de_la_vie_6e" title="">Sciences de la Vie 6e</a></li>
+</ul></li>
+<li class="expanded"><a href="/cinquieme" title="">Cinquième</a><ul class="menu"><li class="first leaf"><a href="http://www.sunudaara.com/sciences_de_la_vie_5e" title="">Sciences de la vie 5e</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/science_de_la_terre_5e" title="">Sciences de la terre 5e</a></li>
+<li class="last expanded"><a href="/maths_5e" title="">Math 5e</a><ul class="menu"><li class="first leaf"><a href="/cours_maths_5e">Cours Maths 5e</a></li>
+<li class="last leaf"><a href="/exo_maths_5e" title="">Exo Maths 5e</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sunudaara.com/quatrieme" title="">Quatrième</a><ul class="menu"><li class="first leaf"><a href="/cours_maths_4e" title="">Cours Maths 4e</a></li>
+<li class="leaf"><a href="/exo-math-4e" title="">Exo Math 4e</a></li>
+<li class="expanded"><a href="/pc-4e" title="">PC 4e</a><ul class="menu"><li class="first leaf"><a href="/cours-pc-4e">Cours PC 4eme</a></li>
+<li class="last leaf"><a href="/exo-pc-4e">Exo PC 4e</a></li>
+</ul></li>
+<li class="leaf"><a href="/histoire_4e">Histoire 4e</a></li>
+<li class="last expanded"><a href="/SVT-4e" title="">SVT 4e</a><ul class="menu"><li class="first leaf"><a href="http://www.sunudaara.com/sciences_de_la_vie_4e" title="">Science de La Vie 4e</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/sciences_de_la_terre_4e" title="">Science de la terre 4e</a></li>
+<li class="last expanded"><a href="/Exo-SVT-4e" title="">Exo SVT 4e</a><ul class="menu"><li class="first leaf"><a href="/exos-%20sciences-de-la-vie-4e" title="">Exos Sciences de la Vie 4e</a></li>
+<li class="last leaf"><a href="/exo-sciences-de-la-terre-4e" title="">Exos sciences de la terre 4e</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li class="last expanded"><a href="/troisieme" title="">Troisième</a><ul class="menu"><li class="first expanded"><a href="/pc-3e" title="">PC 3e</a><ul class="menu"><li class="first expanded"><a href="/cours-pc-3e" title="">Cours PC 3e</a><ul class="menu"><li class="first leaf"><a href="http://www.sunudaara.com/cours_phyisiques_" title="">Cours Physique 3e</a></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/cours_chimie_3e_" title="">Cours Chimie 3e</a></li>
+</ul></li>
+<li class="expanded"><a href="/exo-physique-chimie-3e" title="">Exo PC 3e</a><ul class="menu"><li class="first leaf"><a href="http://www.sunudaara.com/exos_physique_3e" title="">Exos Physique 3e</a></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/exercices_chimie_3e" title="">Exos chimie 3e</a></li>
+</ul></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/bfem-pc" title="">BFEM PC</a></li>
+</ul></li>
+<li class="leaf"><a href="http://www.sunudaara.com//histoire_3e" title="">Histoire</a></li>
+<li class="expanded"><a href="http://www.sunudaara.com/maths-3e" title="">Maths 3e</a><ul class="menu"><li class="first leaf"><a href="/cours_maths_3e" title="">Cours Maths 3e</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/exo_maths_3e" title="">Exos maths 3e</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/bfem-math" title="">BFEM Maths</a></li>
+<li class="last leaf"><a href="/qcm_maths_3e" title="">QCM Maths 3e</a></li>
+</ul></li>
+<li class="last expanded"><a href="/svt_3e" title="">SVT 3e</a><ul class="menu"><li class="first leaf"><a href="http://www.sunudaara.com/science_de_la_terre_3e" title="">Science de La Terre 3e</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/science_de_la_vie_3e" title="">Science de La Vie 3e</a></li>
+<li class="leaf"><a href="/exos_svt_3e" title="">Exo SVT 3e</a></li>
+<li class="last leaf"><a href="/bfem_svt">BFEM SVT</a></li>
+</ul></li>
+</ul></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block--cse-1" class="block block--cse">
+
+    
+  <div class="content">
+    <style type="text/css">
+@import url(//www.google.com/cse/api/branding.css);
+</style>
+<div class="cse-branding-right" style="background-color:#FFFFFF;color:#000000">
+  <div class="cse-branding-form">
+    <form action="https://www.sunudaara.com/adsense/cse" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-4925343521376758:7981179526" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text" name="as_q" size="31" />
+        <input type="submit" name="sa" value="Rechercher" />
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="//www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google" />
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>  </div>
+</div>
+<div id="block-menu-menu-lycee" class="block block-menu">
+
+        <h2 >Lycée</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/seconde" title="">Seconde</a><ul class="menu"><li class="first expanded"><a href="http://www.sunudaara.com/maths_Seconde" title="">Math 2nd</a><ul class="menu"><li class="first expanded"><a href="http://www.sunudaara.com/cours_maths_Seconde" title="">Cours Maths 2nd</a><ul class="menu"><li class="first leaf"><a href="/cours_maths_seconde_s">Cours Math 2nd S</a></li>
+<li class="last leaf"><a href="/cours_maths_seconde_l">Cours Math 2nd L</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sunudaara.com/exo-maths-2nd" title="">Exo maths 2nd</a><ul class="menu"><li class="first leaf"><a href="/exo_maths_2nd_s">Exo Maths 2nd S</a></li>
+<li class="last leaf"><a href="/exo_maths_2nd_l" title="">Exo Maths 2nd L</a></li>
+</ul></li>
+<li class="last leaf"><a href="/devoir_math_seconde" title="">Devoir Maths 2nd</a></li>
+</ul></li>
+<li class="expanded"><a href="/pc-seconde" title="">PC 2nd</a><ul class="menu"><li class="first leaf"><a href="/cours-pc-seconde" title="">Cours PC 2nd</a></li>
+<li class="last leaf"><a href="/exo-pc-seconde">Exo PC 2nd</a></li>
+</ul></li>
+<li class="last leaf"><a href="/cours-svt-seconde">Cours SVT Seconde</a></li>
+</ul></li>
+<li class="expanded"><a href="/premiere" title="">Première</a><ul class="menu"><li class="first expanded"><a href="/math_premiere" title="">Maths 1ere</a><ul class="menu"><li class="first leaf"><a href="/cours-maths-1ere" title="">Cours Maths 1ere</a></li>
+<li class="leaf"><a href="/exercices-maths-1ere">Exos Maths 1ere</a></li>
+<li class="last leaf"><a href="/devoir_math_premiere" title="">Devoir Maths 1ere</a></li>
+</ul></li>
+<li class="expanded"><a href="/pc-premiere" title="">PC Première</a><ul class="menu"><li class="first leaf"><a href="/cours-pc-premi%C3%A8re" title="">Cours PC 1ere</a></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/exo-pc-première" title="">Exo PC Première</a></li>
+</ul></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/cours-svt-première" title="">Cours SVT Première</a></li>
+</ul></li>
+<li class="last expanded"><a href="http://www.sunudaara.com/terminale" title="">Terminale</a><ul class="menu"><li class="first expanded"><a href="/maths-terminale" title="">Maths Terminale</a><ul class="menu"><li class="first leaf"><a href="/cours-maths-terminale-s">Cours Maths TS</a></li>
+<li class="leaf"><a href="/exercices-maths-Terminale">Exos Maths Terminale</a></li>
+<li class="last leaf"><a href="/devoir_math_terminale">Devoir Maths Terminale</a></li>
+</ul></li>
+<li class="expanded"><a href="/pc-terminale" title="">PC Terminale</a><ul class="menu"><li class="first leaf"><a href="/cours-pc-terminale">Cours PC Terminale</a></li>
+<li class="last leaf"><a href="/exo-pc-terminale">Exo PC Terminale</a></li>
+</ul></li>
+<li class="expanded"><a href="/svt-terminale" title="">SVT Terminale</a><ul class="menu"><li class="first last leaf"><a href="/exos_svt_terminale">Exos SVT Terminale</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sunudaara.com/philosophie_" title="">Philosophie</a><ul class="menu"><li class="first leaf"><a href="http://www.sunudaara.com/cours-philo" title="">Cours Philo</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/savoir-faire-philo" title="">Savoir-faire Philo</a></li>
+<li class="leaf"><a href="http://www.sunudaara.com/texte-philo" title="">Texte Philo</a></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/exercices-philo" title="">Exo Philo</a></li>
+</ul></li>
+<li class="leaf"><a href="http://www.sunudaara.com/histoire-terminale" title="">Histoire</a></li>
+<li class="last leaf"><a href="http://www.sunudaara.com/geographie-terminale" title="">Géographie</a></li>
+</ul></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block--cse-2" class="block block--cse">
+
+    
+  <div class="content">
+    <style type="text/css">
+@import url(//www.google.com/cse/api/branding.css);
+</style>
+<div class="cse-branding-right" style="background-color:#FFFFFF;color:#000000">
+  <div class="cse-branding-form">
+    <form action="https://www.sunudaara.com/adsense/cse" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-4925343521376758:7680474465" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text" name="as_q" size="31" />
+        <input type="submit" name="sa" value="Rechercher" />
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="//www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google" />
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>  </div>
+</div>
+<div id="block--cse-0" class="block block--cse">
+
+    
+  <div class="content">
+    <script async src='https://cse.google.com/cse.js?cx=partner-pub-4925343521376758:5112421723'></script><div class='gcse-searchbox-only' data-resultsUrl='https://www.sunudaara.com/csev2/results/5112421723' data-queryParameterName='as_q'></div>  </div>
+</div>
+<div id="block-block-10" class="block block-block">
+
+      
+  <div class="content">
+    <div class="tex2jax"> <p></p>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4925343521376758" crossorigin="anonymous"></script><script>
+<!--//--><![CDATA[// ><!--
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </aside> 
+      </div>
+
+  <footer id="footer-bottom">
+    <div id="footer-area" class="clearfix">
+              <div id="footer-block-wrap" class="clearfix in2">
+          <div class="footer-block">
+            <div class="region region-footer-first">
+  <div id="block--managed-9" class="block block--managed">
+
+    
+  <div class="content">
+    <div style='text-align:center'><div class='adsense responsive' >
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4925343521376758"
+     data-ad-slot="2260722511"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>  </div>
+</div>
+</div>
+ <!-- /.region -->
+          </div>          <div class="footer-block">
+            <div class="region region-footer-second">
+  <div id="block--cse-3" class="block block--cse">
+
+    
+  <div class="content">
+    <script async src='https://cse.google.com/cse.js?cx=partner-pub-4925343521376758:2260722511'></script><div class='gcse-searchbox-only' data-resultsUrl='https://www.sunudaara.com/csev2/results/2260722511' data-queryParameterName='as_q'></div>  </div>
+</div>
+<div id="block--managed-4" class="block block--managed">
+
+    
+  <div class="content">
+    <div style='text-align:center'><div class='adsense' style='width:250px;height:250px;'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 250x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:250px;height:250px"
+     data-ad-client="ca-pub-4925343521376758"
+     data-ad-slot="6199967527"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>  </div>
+</div>
+</div>
+ <!-- /.region -->
+          </div>                  </div>
+            
+          </div>
+
+    <div id="bottom" class="clearfix">
+      <div class="copyright">Copyright &copy; 2025, <a href="/">Sunudaara</a></div>
+     <!-- <div class="credit">Theme by  <a href="http://www.sunudaara.com" target="_blank">Sunudaara/a></div>-->
+    </div>
+  </footer>
+
+</div>
+
+
+
+
+
+
+  <script type="text/javascript" src="https://www.sunudaara.com/sites/all/modules/pdf_export/js/pdf_export.js?srj0af"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery("#total-subscription-subscribe-form fieldset.captcha").hide();
+      jQuery("#total-subscription-subscribe-and-form fieldset.captcha").hide();
+//--><!]]>
+</script>
+</body>
+</html>
