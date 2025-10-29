@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "titre": "Rejoignez notre chaîne WhatsApp",
+    "message": "Restez toujours informé des dernières actualités, astuces et nouveautés à propos du BAC et de YoonuBAC. Rejoignez notre chaîne WhatsApp dès maintenant !",
+    "link": "https://www.whatsapp.com/channel/0029Vb6zZvNBqbqzoSKNIx3S",
+    "linkText": "Rejoindre la chaîne",
+    "expiry-date": "2037-12-31"
+  },
+  {
+    "id": "2",
+    "titre": "Découvrez l’onglet 'Évaluation'",
+    "message": "Avec cet onglet, vous pouvez facilement calculer votre moyenne du semestre et suivre votre progression. Essayez-le dès maintenant !",
+    "link": null,
+    "linkText": null,
+    "expiry-date": "2037-12-31",
+    "image": "https://raw.githubusercontent.com/anonymmouscoder/YoonuBAC-Assets/refs/heads/main/moyenne.png"
+  },
+  {
+    "id": "3",
+    "titre": "Explorez le widget Loop",
+    "message": "Cliquez sur le widget Loop pour découvrir des faits intéressants du monde et booster vos connaissances en culture générale !",
+    "link": null,
+    "linkText": null,
+    "expiry-date": "2037-12-31",
+    "image": "https://raw.githubusercontent.com/anonymmouscoder/YoonuBAC-Assets/refs/heads/main/loop.png"
+  }
+]
